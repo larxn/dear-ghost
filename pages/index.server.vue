@@ -117,7 +117,9 @@
       </div>
     </section>
 
-    <section class="flex items-center justify-center gap-6 pt-14 sm:pt-20">
+    <section
+      class="flex flex-col items-center justify-center gap-x-6 pt-14 sm:pt-20 md:flex-row"
+    >
       <HomeLink href="https://www.patreon.com/dearghost">
         <span class="shrink-0 text-orange-300">
           <SolidSparkIcon />
