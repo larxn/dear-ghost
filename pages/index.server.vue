@@ -23,14 +23,6 @@
           >
             <SolidGitHubIcon />
           </a>
-
-          <a
-            href="https://discord.gg/y4RvGKEtaF"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <SolidDiscordIcon />
-          </a>
         </div>
       </ul>
     </nav>
