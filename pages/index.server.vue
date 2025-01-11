@@ -29,7 +29,7 @@
 
     <header class="flex flex-col items-center text-center">
       <h1
-        class="mb-8 mt-14 max-w-[19rem] text-2xl font-medium leading-tight sm:mt-20 sm:max-w-[36.5rem] sm:text-[1.825rem] lg:mt-36 lg:text-[2.125rem]"
+        class="mb-8 mt-14 max-w-[23rem] text-2xl font-medium leading-tight sm:mt-20 sm:max-w-[27rem] sm:text-[1.825rem] lg:mt-36 lg:h-32 lg:max-w-[32.5rem] lg:text-[2.125rem]"
       >
         The open-source text editor for creative writing with language models
       </h1>
